@@ -1175,11 +1175,11 @@
 
 * ⭐ **[RimWorld Wiki](https://rimworldwiki.com/)** - Official Wiki / [Discord](https://discord.com/invite/UTaMDWc)
 * ⭐ **[RimSort](https://rimsort.github.io/RimSort/)** - Mod Manager / [GitHub](https://github.com/RimSort/RimSort)
+* [Void Archives](https://sites.google.com/view/void-archives/) - Modding, Troubleshooting & Performance-Optimization Guides
 * [RimWorld Discord](https://discord.com/invite/rimworld) - Official Community Discord
 * [r/RimWorld](https://www.reddit.com/r/RimWorld/) - Official Community Subreddit
 * [Judge My List](https://jumli.sysrqmagician.dev/) - Automated Modlist Feedback / [GitHub](https://github.com/sysrqmagician/jumli)
 * [Workshop Walker](https://workshop-walker.disconsented.com/) - Improved Steam Workshop UI / [GitHub](https://github.com/disconsented/workshop-walker)
-* [Void Archives](https://sites.google.com/view/void-archives/) - RimWorld Guides
 * RimWorld Infographs - [Basic](https://mortalsmurph.com/?page_id=184) / [Anomaly DLC](http://mortalsmurph.com/?page_id=50)
 
 ***
